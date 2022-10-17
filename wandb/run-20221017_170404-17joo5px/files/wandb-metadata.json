@@ -1,0 +1,21 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-10-17T11:34:05.994809",
+    "startedAt": "2022-10-17T11:34:04.655389",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Workspace/neural-style-transfer/neural-style-transfer-pytorch.ipynb",
+    "root": "/Users/aneeshaparajit/Desktop/Workspace/neural-style-transfer",
+    "git": {
+        "remote": null,
+        "commit": "bd714a4761d311b3e7ed3ad8d7c69a44af09dd9d"
+    },
+    "email": "aneeshaparajit.g2002@gmail.com",
+    "host": "Aneesh.local",
+    "username": "aneeshaparajit",
+    "executable": "/Users/aneeshaparajit/opt/anaconda3/bin/python"
+}
